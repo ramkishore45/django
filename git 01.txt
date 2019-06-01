@@ -2,3 +2,6 @@ nagious
 hello java
 jenkings
 maven
+java
+oracle
+.net
